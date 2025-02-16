@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm michaelabolpcptoth261
 
-<!--
-**michaelabolpcptoth261/michaelabolpcptoth261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎱 🎧 🛼 🏊 A hacker in back-end development 🎱 🎧 🛼 🏊
 
-Here are some ideas to get you started:
+## About Me
+🏸 🎬 A developer in game development 🏸 🎬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🏊 Improving my skills in design thinking 🛹 🏊
+
+### Fun Facts
+💻 🎣 🎯 Fascinated by back-end development 💻 🎣 🎯
+
+---
+🎧 🎳 🎯 🎰 🚣 Thanks for visiting my profile! 🚴 🏊 🚵 🏸 🎯
